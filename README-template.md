@@ -1,4 +1,8 @@
-# README.md TEMPLATE
+# [TITLE OF PROJECT]
+
+This will contain the brief description of the project. If it is a solution to a specific online project, kindly refer it here via a link.
+
+**Note: Delete this note when you add your descrption.**
 
 ## Table of contents
 
