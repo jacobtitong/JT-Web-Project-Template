@@ -107,7 +107,7 @@ Describe how you used AI tools (if any) during this project. This helps demonstr
 
 - Website - [Add your name here](https://www.your-site.com)
 - Github - [jacobtitong](https://github.com/jacobtitong)
-- Linkedin - [Jacob Titong](https://www.linkedin.com/in/jacobtitong/)
+- LinkedIn - [Jacob Titong](https://www.linkedin.com/in/jacobtitong/)
 - Frontend Mentor - [@jacobtitong](https://www.frontendmentor.io/profile/jacobtitong)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
